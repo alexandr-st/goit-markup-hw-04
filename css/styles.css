@@ -185,7 +185,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
         ),
-    url("/project-webstudio/images/Hero_img/BG_resize.jpg");
+    url("../images/Hero_img/BG_resize.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
